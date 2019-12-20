@@ -1,0 +1,16 @@
+PODS:
+  - SRActivityIndicator (0.1.0)
+
+DEPENDENCIES:
+  - SRActivityIndicator
+
+SPEC REPOS:
+  trunk:
+    - SRActivityIndicator
+
+SPEC CHECKSUMS:
+  SRActivityIndicator: fd9b1d988b7b204c83e2d3b6e582de6577cd4df1
+
+PODFILE CHECKSUM: 64173ea98cf0541183bf52150bc7ba303569ac8a
+
+COCOAPODS: 1.8.4

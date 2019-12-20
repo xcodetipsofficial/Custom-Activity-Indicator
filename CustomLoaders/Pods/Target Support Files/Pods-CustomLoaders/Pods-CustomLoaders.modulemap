@@ -1,0 +1,6 @@
+module Pods_CustomLoaders {
+  umbrella header "Pods-CustomLoaders-umbrella.h"
+
+  export *
+  module * { export * }
+}

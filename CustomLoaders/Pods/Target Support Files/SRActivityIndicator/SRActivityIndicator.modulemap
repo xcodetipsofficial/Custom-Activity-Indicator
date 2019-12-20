@@ -1,0 +1,6 @@
+module SRActivityIndicator {
+  umbrella header "SRActivityIndicator-umbrella.h"
+
+  export *
+  module * { export * }
+}
